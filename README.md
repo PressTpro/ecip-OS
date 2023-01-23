@@ -25,4 +25,12 @@ COMMIT;</code>
 # Screenshots
 ![](https://user-images.githubusercontent.com/95140308/213948290-9c776e74-c0e8-4782-9989-531533f365e7.png)
 ![](https://user-images.githubusercontent.com/95140308/213948235-bdb3a15e-c99c-474c-94dd-3ee20fdace1f.png)![](https://user-images.githubusercontent.com/95140308/213948264-024a57d0-f510-418e-8603-821ca20f74eb.png)
+# Structure
+Repo
+|
+|_ master  
+   |
+   |__/ecip-OS - The main contents
+   |
+   |__/README.md - This File
 
